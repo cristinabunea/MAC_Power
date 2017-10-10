@@ -1,0 +1,30 @@
+.main-title
+{
+	color:#343c3e;
+	font-family: 'Century Gothic' ;
+	font-size:175%;
+	text-align: center;
+}
+#banner
+{
+	width:99.89%;
+}
+
+.options
+{
+	text-align: center;
+}
+.options a
+{
+	
+	display:block;
+	font-size:115%;
+	text-decoration: none;
+	color:#343c3e;
+
+}
+
+body
+{
+	background-color:rgba(220,220,220,0.3); 
+}
